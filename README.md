@@ -1,4 +1,4 @@
-# mithras_practice_portfolio_hackclub
+# Mithra's Personal Website
 
 # This is a simple practice personal portfolio website. It includes links to my projects and external profiles where I share and build my work.
 - Built with HTML and Tailwind CSS
