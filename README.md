@@ -7,4 +7,5 @@
 
 ## Preview
 
-![Website Preview](https://github.com/user-attachments/assets/189307c3-c19d-4f1f-aa9e-6154b20e7ba9)
+![Website Preview](<img width="1912" height="987" alt="image" src="https://github.com/user-attachments/assets/d64f70bc-83cc-4677-bfe2-eda9dac619c9" />
+)
