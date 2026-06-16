@@ -7,7 +7,6 @@
 
 ## Preview
 
-https://mithraspersonalwebsite.netlify.app/
 
 
 ![Website Preview]
