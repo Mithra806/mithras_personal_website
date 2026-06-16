@@ -9,4 +9,6 @@
 
 ![Website Preview]
 https://mithraspersonalwebsite.netlify.app/
+
+
 (https://github.com/user-attachments/assets/d64f70bc-83cc-4677-bfe2-eda9dac619c9)
